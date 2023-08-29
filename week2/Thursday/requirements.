@@ -1,0 +1,205 @@
+aiofiles==23.2.1
+aiohttp==3.8.5
+aiosignal==1.3.1
+anyio==3.7.1
+appnope @ file:///Users/cbousseau/work/recipes/ci_py311/appnope_1677917710869/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+async-timeout==4.0.3
+asyncer==0.0.2
+attrs==23.1.0
+auth0-python==4.4.1
+Automat==22.10.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+backoff==2.2.1
+beautifulsoup4==4.12.2
+bidict==0.22.1
+cachetools==5.3.1
+certifi==2023.7.22
+cffi==1.15.1
+chainlit==0.6.3
+charset-normalizer==3.2.0
+chroma-hnswlib==0.7.2
+chromadb==0.4.6
+click==8.1.7
+coloredlogs==15.0.1
+comm @ file:///Users/cbousseau/work/recipes/ci_py311/comm_1677919149446/work
+constantly==15.1.0
+contourpy==1.1.0
+cryptography==41.0.3
+cssselect==1.2.0
+cycler==0.11.0
+dataclasses-json==0.5.14
+datasets==2.14.4
+debugpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_563_nwtkoc/croot/debugpy_1690905063850/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+Deprecated==1.2.14
+dill==0.3.7
+exceptiongroup==1.1.3
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+faiss-cpu==1.7.4
+fastapi==0.97.0
+fastapi-socketio==0.0.10
+filelock==3.12.2
+filetype==1.2.0
+flatbuffers==23.5.26
+fonttools==4.42.0
+frozenlist==1.4.0
+fsspec==2023.6.0
+google-api-core==2.11.1
+google-auth==2.22.0
+googleapis-common-protos==1.60.0
+grpcio==1.57.0
+h11==0.14.0
+httpcore==0.17.3
+httptools==0.6.0
+httpx==0.24.1
+huggingface-hub==0.16.4
+humanfriendly==10.0
+hyperlink==21.0.0
+idna==3.4
+importlib-metadata==6.8.0
+importlib-resources==6.0.1
+incremental==22.10.0
+ipykernel==6.25.1
+ipython @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_84r7osg3nm/croot/ipython_1691532095330/work
+itemadapter==0.8.0
+itemloaders==1.1.0
+jedi @ file:///Users/cbousseau/work/recipes/ci_py311_2/jedi_1678994967789/work
+Jinja2==3.1.2
+jmespath==1.0.1
+joblib==1.3.2
+jupyter_client @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_701yya0pqm/croot/jupyter_client_1680171868326/work
+jupyter_core @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d1sy1hlz9t/croot/jupyter_core_1679906585151/work
+kiwisolver==1.4.4
+langchain==0.0.272
+langsmith==0.0.22
+Lazify==0.4.0
+llama-index==0.8.11.post3
+lxml==4.9.3
+MarkupSafe==2.1.3
+marshmallow==3.20.1
+matplotlib==3.7.2
+matplotlib-inline @ file:///Users/cbousseau/work/recipes/ci_py311/matplotlib-inline_1677918241899/work
+monotonic==1.6
+mpmath==1.3.0
+multidict==6.0.4
+multiprocess==0.70.15
+mypy-extensions==1.0.0
+nest-asyncio @ file:///Users/cbousseau/work/recipes/ci_py311/nest-asyncio_1677912430289/work
+networkx==3.1
+nltk==3.8.1
+nodeenv==1.8.0
+numexpr==2.8.5
+numpy==1.25.2
+onnxruntime==1.15.1
+openai==0.27.9
+openapi-schema-pydantic==1.2.4
+opentelemetry-api==1.19.0
+opentelemetry-exporter-otlp==1.19.0
+opentelemetry-exporter-otlp-proto-common==1.19.0
+opentelemetry-exporter-otlp-proto-grpc==1.19.0
+opentelemetry-exporter-otlp-proto-http==1.19.0
+opentelemetry-instrumentation==0.40b0
+opentelemetry-proto==1.19.0
+opentelemetry-sdk==1.19.0
+opentelemetry-semantic-conventions==0.40b0
+outcome==1.2.0
+overrides==7.4.0
+packaging @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e946luvhc3/croot/packaging_1678965323926/work
+pandas==2.0.3
+parsel==1.8.1
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==10.0.0
+platformdirs @ file:///Users/cbousseau/work/recipes/ci_py311/platformdirs_1677909443319/work
+plotly==5.16.0
+posthog==3.0.2
+prisma==0.9.1
+prompt-toolkit @ file:///Users/cbousseau/work/recipes/ci_py311/prompt-toolkit_1677918689663/work
+Protego==0.3.0
+protobuf==3.19.6
+psutil @ file:///Users/cbousseau/work/recipes/ci_py311_2/psutil_1678995687212/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pulsar-client==3.2.0
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pyarrow==13.0.0
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser==2.21
+pydantic==1.10.11
+PyDispatcher==2.0.7
+Pygments @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_29bs9f_dh9/croot/pygments_1684279974747/work
+PyJWT==2.8.0
+pyOpenSSL==23.2.0
+pyparsing==3.0.9
+pypdf==3.15.4
+PyPika==0.48.9
+PySocks==1.7.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv==1.0.0
+python-engineio==4.6.0
+python-graphql-client==0.4.3
+python-socketio==5.8.0
+pytz==2023.3
+PyYAML==6.0.1
+pyzmq @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_23n9bfwjq5/croot/pyzmq_1686601381911/work
+queuelib==1.6.2
+ragas==0.0.11
+rank-bm25==0.2.2
+regex==2023.8.8
+requests==2.31.0
+requests-file==1.5.1
+rsa==4.9
+safetensors==0.3.2
+scikit-learn==1.3.0
+scipy==1.11.1
+Scrapy==2.10.0
+selenium==4.11.2
+sentence-transformers==2.2.2
+sentencepiece==0.1.99
+service-identity==23.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+sortedcontainers==2.4.0
+soupsieve==2.4.1
+SQLAlchemy==2.0.20
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+starlette==0.27.0
+sympy==1.12
+syncer==2.0.3
+tenacity==8.2.3
+threadpoolctl==3.2.0
+tiktoken==0.4.0
+tldextract==3.4.4
+tokenizers==0.13.3
+tomli==2.0.1
+tomlkit==0.12.1
+torch==2.0.1
+torchvision==0.15.2
+tornado @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_28d93aezp2/croot/tornado_1690848278715/work
+tqdm==4.66.1
+traitlets @ file:///Users/cbousseau/work/recipes/ci_py311/traitlets_1677911650502/work
+transformers==4.32.0
+trio==0.22.2
+trio-websocket==0.10.3
+Twisted==22.10.0
+typing-inspect==0.9.0
+typing_extensions==4.7.1
+tzdata==2023.3
+uptrace==1.19.0
+urllib3==1.26.16
+uvicorn==0.22.0
+uvloop==0.17.0
+w3lib==2.1.2
+watchfiles==0.19.0
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+websockets==11.0.3
+wget==3.2
+wikipedia==1.4.0
+wrapt==1.15.0
+wsproto==1.2.0
+xxhash==3.3.0
+yarl==1.9.2
+zipp==3.16.2
+zope.interface==6.0
